@@ -11,7 +11,10 @@
   "dependencies": {
     "next": "15.3.5",
     "react": "^19.0.0",
+    "react_ant_design_common_modules": "file:../react_ant_design_common_modules",
     "react_chakra_ui_common_modules": "file:../react_chakra_ui_common_modules",
+    "react_functions_common_modules": "file:../react_functions_common_modules",
+    "react_material_ui_common_modules": "file:../react_material_ui_common_modules",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
